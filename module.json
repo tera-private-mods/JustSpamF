@@ -1,11 +1,12 @@
 {
-	"disableAutoUpdate": false,
-    "options": {"niceName": "JustSpamF", "guiName": "JustSpamF", "settingsVersion": 4, "settingsFile": "config.json", "settingsMigrator": "config_generator.js"},
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "JustSpamF",
+        "guiName": "JustSpamF"
+    },
     "name": "JustSpamF",
     "author": "Snug",
-	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
-    "description": "Changes npc interactions to a form that let you hit F to progress including teleportals(/8 jsf to toggle on/off)",
-    "version": "1.4",
-	"servers": ["https://raw.githubusercontent.com/Snugglez/JustSpamF/master/"],
-	"supportUrl": "https://github.com/Snugglez/JustSpamF/blob/master/README.md"
+    "description": "Changes npc interactions to a form that let you hit F to progress including teleportals",
+    "version": "1",
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/JustSpamF/master/"]
 }
